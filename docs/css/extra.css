@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.md-header {
+    background-color: #264224 !important; /* тёмный холодный травяной зеленый */
+}
+
+.md-header .md-nav__link, 
+.md-header .md-header__title {
+    color: #C9DCC1 !important; /* светло-салатовый */
+}

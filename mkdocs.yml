@@ -1,0 +1,20 @@
+site_name: Шаманы говорят
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: images/my-logo.png
+
+nav:
+  - Введение: index.md
+  - Глава 1: chapter1.md
+  - Глава 2: chapter2.md
+
+extra_css:
+  - css/extra.css
+
+extra:
+  favicon: images/favicon.ico
+  meta:
+    - name: robots
+      content: noindex, nofollow
