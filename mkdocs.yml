@@ -1,4 +1,6 @@
-site_name: Шаманы говорят
+site_name: Шаманы говорят 
+
+docs_dir: docs
 
 theme:
   name: material
