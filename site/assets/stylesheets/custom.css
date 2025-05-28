@@ -1,0 +1,8 @@
+body {
+  border: 5px dashed tomato;
+}
+
+.md-header {
+  background-color: #1a3d2f; /* глубокий зелёный */
+  color: #d7ffb8; /* светло-салатовый */
+}
