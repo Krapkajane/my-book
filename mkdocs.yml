@@ -8,9 +8,37 @@ theme:
   logo: images/my-logo.png
 
 nav:
-  - Введение: index.md
-  - Глава 1: chapter1.md
-  - Глава 2: chapter2.md
+  - Обложка книги: cover.md
+  - Предисловие: foreword.md
+  - 1 Атт:
+      - Глава 1. Феху: chapter1.md
+      - Глава 2. Уруз: chapter2.md
+      - Глава 3. Турисаз: chapter3.md
+      - Глава 4. Ансуз: chapter4.md
+      - Глава 5. Райдо: chapter5.md
+      - Глава 6. Кеназ: chapter6.md
+      - Глава 7. Гебо: chapter7.md
+      - Глава 8. Вуньйо: chapter8.md
+  - 2 Атт:
+      - Глава 9. Хагалз: chapter9.md
+      - Глава 10. Наутиз: chapter10.md
+      - Глава 11. Иса: chapter11.md
+      - Глава 12. Йера: chapter12.md
+      - Глава 13. Ейваз: chapter13.md
+      - Глава 14. Перт: chapter14.md
+      - Глава 15. Альгиз: chapter15.md
+      - Глава 16. Соул: chapter16.md
+  - 3 Атт:
+      - Глава 17. Тейваз: chapter17.md
+      - Глава 18. Беркана: chapter18.md
+      - Глава 19. Эваз: chapter19.md
+      - Глава 20. Манназ: chapter20.md
+      - Глава 21. Лагуз: chapter21.md
+      - Глава 22. Ингуз: chapter22.md
+      - Глава 23. Одал: chapter23.md
+      - Глава 24. Дагаз: chapter24.md
+  - Эпилог: epilog.md
+  - Тематический указатель: topics.md
 
 extra_css:
   - css/extra.css
